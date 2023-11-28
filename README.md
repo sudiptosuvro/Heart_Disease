@@ -30,4 +30,4 @@ Utilizing sophisticated algorithms, I have created a resilient model for anticip
 #### Exercise-Induced Angina: 
 - Indicates the presence of chest pain induced by exercise.
 ### Outcome:
-![f1_score](https://github.com/sudiptosuvro/Heart_Disease/assets/147235323/cc9713bb-23e5-47b9-8835-c91141d1fb24)
+![f1_score](https://github.com/sudiptosuvro/Heart_Disease/assets/147235323/e762de3c-d57a-42f5-b8cf-c066aeccfa73)
